@@ -1,0 +1,34 @@
+D:\NET FRAMEWORK\AppG2\AppG2\bin\Debug\AppG2.exe.config
+D:\NET FRAMEWORK\AppG2\AppG2\bin\Debug\AppG2.exe
+D:\NET FRAMEWORK\AppG2\AppG2\bin\Debug\AppG2.pdb
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.csprojAssemblyReference.cache
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.frmTinhToanCoBan.resources
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.Properties.Resources.resources
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.csproj.GenerateResource.cache
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.csproj.CoreCompileInputs.cache
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.exe
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.pdb
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.View.frmThongTinSinhVien.resources
+D:\NET FRAMEWORK\AppG2\AppG2\bin\Debug\Data\student.txt
+D:\NET FRAMEWORK\AppG2\AppG2\bin\Debug\Data\HistoryLearning.txt
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.View.frmQuaTrinhHocTapChiTiet.resources
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.View.frmContact.resources
+D:\NET FRAMEWORK\AppG2\AppG2\bin\Debug\Data\contact.txt
+D:\NET FRAMEWORK\AppG2\AppG2\obj\Debug\AppG2.View.frmContactChiTiet.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\bin\Debug\Data\contact.txt
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\bin\Debug\Data\HistoryLearning.txt
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\bin\Debug\Data\student.txt
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\bin\Debug\AppG2.exe.config
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\bin\Debug\AppG2.exe
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\bin\Debug\AppG2.pdb
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.csprojAssemblyReference.cache
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.View.frmContact.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.View.frmContactChiTiet.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.View.frmQuaTrinhHocTapChiTiet.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.View.frmThongTinSinhVien.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.frmTinhToanCoBan.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.Properties.Resources.resources
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.csproj.GenerateResource.cache
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.csproj.CoreCompileInputs.cache
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.exe
+C:\Users\LOVE\Downloads\AppG2-master\AppG2\obj\Debug\AppG2.pdb
